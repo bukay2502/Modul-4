@@ -1,4 +1,3 @@
-package tes;
 import java.util.Scanner;
 import java.util.HashMap;
 public class Mahasiswa {
